@@ -7,4 +7,4 @@ It has a button to open a form to add a new user. After submitting the form rend
 
 ## References
 
-- [bootstrap](https://getbootstrap.com) (5.2.2)
+- [Bootstrap](https://getbootstrap.com) (5.2.2)
